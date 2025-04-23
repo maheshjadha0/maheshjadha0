@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @maheshjadhao
 - 👀 I’m interested in Software developement
-- 🌱 I’m currently learning .NET MAUI
+- 🌱 I’m currently learning .NET
+  
 
 
 <!---
